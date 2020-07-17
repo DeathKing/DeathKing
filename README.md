@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```ruby
+(_2b || !_2b).is_a? Question
+```
+
 <!--
 **DeathKing/DeathKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
