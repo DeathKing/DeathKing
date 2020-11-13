@@ -1,18 +1,9 @@
 ### Hi there 👋 <a title="" target="_blank" href="https://github.com/DeathKing/DeathKing"><img src="https://hits.b3log.org/DeathKing/DeathKing.svg"></a>
 
+```ruby
+(_2b || !_2b).is_a? Question
 
-<table>
-<tbody>
-  <tr>
-    <td>
-<pre class="rich-diff-level-zero" style="user-select: auto;"><span class="pl-kos rich-diff-level-one" style="user-select: auto;">(</span><span class="pl-en rich-diff-level-one" style="user-select: auto;">_2b</span> || !<span class="pl-en rich-diff-level-one" style="user-select: auto;">_2b</span><span class="pl-kos rich-diff-level-one" style="user-select: auto;">)</span><span class="pl-kos rich-diff-level-one" style="user-select: auto;">.</span><span class="pl-en rich-diff-level-one" style="user-select: auto;">is_a?</span> <span class="pl-v rich-diff-level-one" style="user-select: auto;">Question</span></pre>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DeathKing&show_icons=true">
-    </td>
-  </tr>
-  </tbody>
-</table>
+```
 
 
 
